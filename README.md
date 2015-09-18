@@ -1,0 +1,7 @@
+# Spoj Problems (solved)
+STRHH
+CPTTRN1
+CPTTRN2
+CPTTRN3
+CPTTRN4
+CPTTRN5
