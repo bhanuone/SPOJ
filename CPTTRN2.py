@@ -14,3 +14,4 @@ for x in range(0, t):
                 line += '.'
         print line
     print "\n"
+    
